@@ -2,7 +2,7 @@
   "name": "pomodoro-clock",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://jasmincortez.github.io/pomodoro-clock",
+  "homepage": "https://jasmincortez.github.io/clock",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.2",
     "@fortawesome/free-brands-svg-icons": "^6.4.2",
